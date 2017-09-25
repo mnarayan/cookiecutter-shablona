@@ -1,0 +1,12 @@
+{
+    "project_name": "project_name",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "package_name": "shablona",
+    "github_user": "uwescience",
+    "author_name": "Ariel Rokem",
+    "author_email": "arokem@gmail.com",
+    "description": "Shablona is a template project for small scientific Python projects.",
+    "open_source_license": ["MIT", "BSD", "Not open source"],
+    "pypi_user": "Your pypi username to publish toolbox",
+    "pypi_secret": "Your pypi secret token"
+}

@@ -1,9 +1,9 @@
-# Cookiecutter Shablona
+# cookiecutter-shablona
 
 This project creates cookiecutter templates based on [shablona](https://github.com/uwescience/shablona). The cookiecutter template structure has been modeled after [cookiecutter-data-science](http://drivendata.github.io/cookiecutter-data-science/)
 
 
-#### [Project homepage]
+#### [Project homepage](https://github.com/mnarayan/cookiecutter-shablona/)
 
 
 ### Requirements to use the cookiecutter template:
